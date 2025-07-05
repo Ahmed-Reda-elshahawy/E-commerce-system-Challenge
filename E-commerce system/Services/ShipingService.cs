@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace E_commerce_system.Models
+namespace E_commerce_system.Services
 {
     public class ShipingService : IShipingService
     {
